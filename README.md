@@ -14,9 +14,9 @@ ___
 
 # **Sample output**
 
-for input: "if [ 123 cat ))) then begin if cat x 12+123 + end] cat [ 12.23, end"
+input: "if [ 123 cat ))) then begin if cat x 12+123 + end] cat [ 12.23, end"
 
-it generates, 
+Terminal: 
 
 ```
 Symbol table:

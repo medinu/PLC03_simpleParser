@@ -10,6 +10,11 @@ ___
 * Note: This could probably be done in a more effective manner because checking if character is special is too time consuming
     * a remedy for this would be to to check for the chars ascii code value
 
+### 3/25/2020
+* added check for ascii values rather than scan through the array of special char array 
+* optimized the code by removing most if not all variable assignment
+* made changes to the addToList function. 
+
 ___
 
 # **Sample output**
